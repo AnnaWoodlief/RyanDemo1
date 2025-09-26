@@ -14,4 +14,6 @@ Instructions for using the project
 
 Instructions on how to contribute to the project
 
-Adding to ReadMe for Branching...
+## Adding to ReadMe for Branching...
+
+## This is the new DEV branch
