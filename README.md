@@ -19,3 +19,5 @@ Instructions on how to contribute to the project
 ## This is the new DEV branch
 
 ## Test Feature!
+
+## Made fix from dev branch
